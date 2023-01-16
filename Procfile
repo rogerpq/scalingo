@@ -1,2 +1,2 @@
 web: python -m http.server $PORT
-worker: bash jmthon
+worker: bash Repthon
