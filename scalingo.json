@@ -1,9 +1,9 @@
 {
-    "name": "JMTHON USERBOT - سورس جمثون",
-    "description": "تنصيب سورس جمثون مجانا على منصة سكالينجو",
+    "name": "REPTHON USERBOT - سورس ريبثون",
+    "description": "تنصيب سورس ريبثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["jmthon", "userbot","scalingo"],
-    "repository": "https://github.com/thejmthon/scalingo",
+    "keywords": ["repthon", "userbot","scalingo"],
+    "repository": "https://github.com/rogerpq/RepthonAr",
   "stack": "container",
     "env": {
         "ALIVE_NAME": {
