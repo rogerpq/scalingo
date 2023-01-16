@@ -1,5 +1,5 @@
-git clone https://github.com/thejmthon/sbb_b0 RMZ
-cd RMZ
+git clone https://github.com/rogerpq/RepthonAr RepthonAr
+cd RepthonAr
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
-python3 -m sbb_b
+python3 -m repthon
