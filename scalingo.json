@@ -3,7 +3,7 @@
     "description": "تنصيب سورس ريبثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
     "keywords": ["repthon", "userbot","scalingo"],
-    "repository": "https://github.com/rogerpq/RepthonAr",
+    "repository": "https://github.com/RepthonArabic/Repthon",
   "stack": "container",
     "env": {
         "ALIVE_NAME": {
