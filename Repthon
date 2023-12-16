@@ -1,4 +1,4 @@
-git clone https://github.com/RepthonArabic/Repthon Repthon
+git clone https://github.com/RepthonArabic/Repthon/tree/L Repthon
 cd Repthon
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
