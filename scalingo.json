@@ -4,7 +4,7 @@
     "addons": ["scalingo-postgresql"],
     "keywords": ["repthon", "userbot","scalingo"],
     "repository": "https://github.com/RepthonArabic/Repthon",
-  "stack": "container",
+    "stack": "container",
     "env": {
         "ALIVE_NAME": {
             "description": "ضع هنا اسم حسابك على التليجرام",
@@ -44,7 +44,6 @@
             "description": "لا تغيره نهائياً!",
             "required": true,
             "value": "8080"
-        }
-
+     }       
     }
   }
