@@ -9,3 +9,4 @@ ffmpeg-python
 pyrogram
 ipaddress
 user_agent
+heroku3
