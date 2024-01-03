@@ -1,1 +1,1 @@
-web: bash Repthon
+web: bash Repthon.sh
