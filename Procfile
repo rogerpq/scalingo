@@ -1,1 +1,2 @@
-web: bash Repthon.sh
+web: python3 baqir.py
+worker: bash repub
