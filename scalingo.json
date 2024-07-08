@@ -2,24 +2,19 @@
     "name": "REPTHON USERBOT - سورس ريبثون",
     "description": "تنصيب سورس ريبثون مجانا على منصة سكالينجو",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["repthon", "userbot","scalingo"],
-    "repository": "https://github.com/Repthon-Arabic/RepthonAr",
+    "keywords": ["python","bot","scalingo","ai"],
+    "repository": "https://github.com/rogerpq/scalingo",
     "stack": "container",
     "env": {
-        "ALIVE_NAME": {
-            "description": "ضع هنا اسم حسابك على التليجرام",
-            "required": true,
-            "value":""
-        },
         "APP_ID": {
             "description": "ضع هنا الايبي ايدي الخاص بك",
             "required": true,
-            "value":""
+            "value":"13740761"
         },
         "API_HASH": {
             "description": "ضع هنا الايبي هاش الخاص بك",
             "required": true,
-            "value":""
+            "value":"4ce319a92c01fab2b02551af8d7f73a4"
         },
         "STRING_SESSION": {
             "description": "هنا ضع كود سيشن بايروجرام او سيشن تيليثون",
