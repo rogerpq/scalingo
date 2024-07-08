@@ -1,2 +1,2 @@
-web: python3 baqir.py
+web: python -m http.server $PORT
 worker: bash repub
